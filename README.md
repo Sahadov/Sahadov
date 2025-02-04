@@ -29,6 +29,9 @@
 <br/><br/>
 
 ## SwiftUI Apps
+<a href="https://github.com/Sahadov/galleryApp/tree/main/SUI">
+  <img align="left" alt="SwiftUI-App-4" height="40px" src="https://github.com/Sahadov/Sahadov/blob/main/assets/galleryApp.png"/>
+</a>
 <a href="https://github.com/Sahadov/ToDoAppSUI">
   <img align="left" alt="SwiftUI-App-1" height="40px" src="https://github.com/Sahadov/Sahadov/blob/main/assets/ToDoLogo.png"/>
 </a>
