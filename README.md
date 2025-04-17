@@ -7,8 +7,17 @@
 
 
 ## Team UIKit Projects
+<a href="https://github.com/Sahadov/Movie-App">
+  <img align="left" alt="Event-hub-ios" height="40px" src="https://github.com/Sahadov/Sahadov/blob/main/assets/movie-app.png"/>
+</a>
+<a href="https://github.com/Sahadov/Shoppe">
+  <img align="left" alt="Event-hub-ios" height="40px" src="https://github.com/Sahadov/Sahadov/blob/main/assets/shoppe-new-app.png"/>
+</a>
+<a href="https://github.com/Sahadov/JDAM">
+  <img align="left" alt="Event-hub-ios" height="40px" src="https://github.com/Sahadov/Sahadov/blob/main/assets/bomb-new-app.png"/>
+</a>
 <a href="https://github.com/Sahadov/EventHubApp">
-  <img align="left" alt="Event-hub-ios" height="40px" src="https://github.com/Sahadov/Sahadov/blob/main/assets/event-hub.png"/>
+  <img align="left" alt="Event-hub-ios" height="40px" src="https://github.com/Sahadov/Sahadov/blob/main/assets/events-app-new.png"/>
 </a>
 <a href="https://github.com/Sahadov/NewsToDay">
   <img align="left" alt="Event-hub-ios" height="40px" src="https://github.com/Sahadov/Sahadov/blob/main/assets/NewsToDay.png"/>
@@ -29,6 +38,9 @@
 <br/><br/>
 
 ## SwiftUI Apps
+<a href="https://github.com/Sahadov/MemeTeller">
+  <img align="left" alt="SwiftUI-App-4" height="40px" src="https://github.com/Sahadov/Sahadov/blob/main/assets/meme-new-app.png"/>
+</a>
 <a href="https://github.com/Sahadov/galleryApp/tree/main/SUI">
   <img align="left" alt="SwiftUI-App-4" height="40px" src="https://github.com/Sahadov/Sahadov/blob/main/assets/galleryApp.png"/>
 </a>
