@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Dmitry 👋</h1>
-<h3 align="center">iOS Developer. From Rostov-on-Don. Currently travelling round the globe. </h3>
+<h3 align="center">iOS Developer.</h3>
 
 📫 My contacts: 
   - E-mail: mrsahadov@gmail.com
