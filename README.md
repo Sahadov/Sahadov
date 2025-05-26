@@ -38,6 +38,12 @@
 <br/><br/>
 
 ## SwiftUI Apps
+<a href="https://github.com/Sahadov/CryptoAppSUI">
+  <img align="left" alt="SwiftUI-App-4" height="40px" src="https://github.com/Sahadov/Sahadov/blob/main/assets/bitcoin-app.png"/>
+</a>
+<a href="https://github.com/Sahadov/threadsCloneSUI">
+  <img align="left" alt="SwiftUI-App-4" height="40px" src="https://github.com/Sahadov/Sahadov/blob/main/assets/threads-app.png"/>
+</a>
 <a href="https://github.com/Sahadov/MemeTeller">
   <img align="left" alt="SwiftUI-App-4" height="40px" src="https://github.com/Sahadov/Sahadov/blob/main/assets/meme-new-app.png"/>
 </a>
